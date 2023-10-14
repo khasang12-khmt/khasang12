@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Software Engineering (Mobile Applications)**
 
-- 🌱 I’m currently learning **Kotlin and Unity**
+- 🌱 I’m currently learning **Native Android Development (Kotlin with XML and Compose)**
 
-- 👯 I’m looking to collaborate on **Android Mobile Development (App/Game)**
+- 👯 I’m looking for careers on **Mobile Development (Cross-platform, Native Android)**
 
 - 🤝 I’m looking for help with **Android Mobile Development (App/Game)**
 
